@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raj-prasad-0ab273178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-prasad-0ab273178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Raj7753/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raj7753/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rajp18zsll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rajp18zsll/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rajp18zsll/?_gl=1*96lsdx*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw89jGBhB0EiwA2o1On-mp5zVinJsHSZtTtJlf32c_GaR-Vv-kDCBB9ZngXMA8RT5GEfpurRoCkqoQAvD_BwE&gbraid=0AAAAAC9yBkB-Ag9MUYK-b30koqFtd1zsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rajp18zsll/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
